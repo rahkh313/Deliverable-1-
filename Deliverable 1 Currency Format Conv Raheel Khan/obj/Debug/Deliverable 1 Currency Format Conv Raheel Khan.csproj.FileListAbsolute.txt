@@ -1,0 +1,7 @@
+C:\Users\raheel.khan\source\repos\Deliverable 1 Currency Format Conv Raheel Khan\Deliverable 1 Currency Format Conv Raheel Khan\obj\Debug\Deliverable 1 Currency Format Conv Raheel Khan.csprojResolveAssemblyReference.cache
+C:\Users\raheel.khan\source\repos\Deliverable 1 Currency Format Conv Raheel Khan\Deliverable 1 Currency Format Conv Raheel Khan\obj\Debug\Deliverable 1 Currency Format Conv Raheel Khan.csproj.CoreCompileInputs.cache
+C:\Users\raheel.khan\source\repos\Deliverable 1 Currency Format Conv Raheel Khan\Deliverable 1 Currency Format Conv Raheel Khan\bin\Debug\Deliverable 1 Currency Format Conv Raheel Khan.exe.config
+C:\Users\raheel.khan\source\repos\Deliverable 1 Currency Format Conv Raheel Khan\Deliverable 1 Currency Format Conv Raheel Khan\bin\Debug\Deliverable 1 Currency Format Conv Raheel Khan.exe
+C:\Users\raheel.khan\source\repos\Deliverable 1 Currency Format Conv Raheel Khan\Deliverable 1 Currency Format Conv Raheel Khan\bin\Debug\Deliverable 1 Currency Format Conv Raheel Khan.pdb
+C:\Users\raheel.khan\source\repos\Deliverable 1 Currency Format Conv Raheel Khan\Deliverable 1 Currency Format Conv Raheel Khan\obj\Debug\Deliverable 1 Currency Format Conv Raheel Khan.exe
+C:\Users\raheel.khan\source\repos\Deliverable 1 Currency Format Conv Raheel Khan\Deliverable 1 Currency Format Conv Raheel Khan\obj\Debug\Deliverable 1 Currency Format Conv Raheel Khan.pdb
